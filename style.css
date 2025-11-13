@@ -188,7 +188,7 @@ h1 {
 
 .footer {
   position: absolute;
-  bottom: 20px;
+  bottom: 10px;
   text-align: center;
   font-size: clamp(12px, 2vw, 14px);
   opacity: 0.6;
